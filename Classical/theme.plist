@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>A gray Clover theme with drive icons and light selection effect. Version: 1.6</string>
+	<string>A gray Clover theme with drive icons and light selection effect. Version: 1.7</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -95,8 +95,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.6</string>
+	<string>1.7</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

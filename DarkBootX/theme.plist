@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Another version of DarkBoot Clover theme with colorful icons. Version: 2.4</string>
+	<string>Another version of DarkBoot Clover theme with colorful icons. Version: 2.5</string>
 	<key>Theme</key>
 	<dict>
 		<key>Anime</key>
@@ -95,8 +95,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>2.4</string>
+	<string>2.5</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Clover theme with classic InsanelyMac look and feel, supports up to 1080p display resolution. Version: 2.4</string>
+	<string>Clover theme with classic InsanelyMac look and feel, supports up to 1080p display resolution. Version: 2.5</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -35,7 +35,7 @@
 		<key>Components</key>
 		<dict>
 			<key>Banner</key>
-			<true/>
+			<false/>
 			<key>Functions</key>
 			<true/>
 			<key>Help</key>
@@ -82,8 +82,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>2.4</string>
+	<string>2.5</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

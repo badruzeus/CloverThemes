@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Catalina Clover theme for 4K Display @3840x2160 and higher. Version: 1.0</string>
+	<string>Catalina Clover theme for 4K Display @3840x2160 and higher. Version: 1.1</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -101,8 +101,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

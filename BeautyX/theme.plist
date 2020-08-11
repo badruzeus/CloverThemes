@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Another version of BeautyDark theme with colorful icons. Version: 3.1</string>
+	<string>Another version of BeautyDark theme with colorful icons. Version: 3.2</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -82,8 +82,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>3.1</string>
+	<string>3.2</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>A dark Clover theme with 3D icons and glowing logo animation. Version: 4.4</string>
+	<string>A dark Clover theme with 3D icons and glowing logo animation. Version: 4.5</string>
 	<key>Theme</key>
 	<dict>
 		<key>Anime</key>
@@ -95,8 +95,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>4.4</string>
+	<string>4.5</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

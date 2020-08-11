@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Clover theme with ocean color harmony (was Hackintosh_ID). Version: 1.5</string>
+	<string>Clover theme with ocean color harmony (was Hackintosh_ID). Version: 1.6</string>
 	<key>Theme</key>
 	<dict>
 		<key>Background</key>
@@ -97,8 +97,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>1.5</string>
+	<string>1.6</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>

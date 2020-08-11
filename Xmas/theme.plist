@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Badruzeus</string>
 	<key>Description</key>
-	<string>Christmas theme for Clover bootloader with simple banner animation. Version: 3.0</string>
+	<string>Christmas theme for Clover bootloader with simple banner animation. Version: 3.1</string>
 	<key>Theme</key>
 	<dict>
 		<key>Anime</key>
@@ -112,8 +112,8 @@
 		</dict>
 	</dict>
 	<key>Version</key>
-	<string>3.0</string>
+	<string>3.1</string>
 	<key>Year</key>
-	<string>2019</string>
+	<string>2020</string>
 </dict>
 </plist>
