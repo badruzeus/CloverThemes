@@ -4,4 +4,4 @@ Collection of Themes to beautify your Clover Bootloader GUI (old versions have b
 ![Themes-Preview](https://github.com/badruzeus/MyCloverThemes/raw/master/Themes-Preview.png)
 
 Bring me to Life:
-[Donate](https://www.paypal.com/paypalme/badruzeusshava)https://www.paypal.com/paypalme/badruzeusshava
+[Donate](https://www.paypal.com/paypalme/badruzeusshava)
